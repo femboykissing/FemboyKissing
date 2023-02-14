@@ -1,4 +1,4 @@
-# Hi! I'm Lucy.
+# Hi! I'm Catto.
 🔭 I’m currently working on: Ruby & Sukumi<br>🌱 I’m currently learning: C & C++
 
 
