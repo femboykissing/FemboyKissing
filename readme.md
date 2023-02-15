@@ -1,5 +1,5 @@
 # Hi! I'm Catto.
-🔭 I’m currently working on: Ruby & Sukumi<br>🌱 I’m currently learning: C & C++
+🔭 I’m currently working on: Ruby & Sukumi<br>🌱 I’m currently learning: C & C++<br>🏳️‍⚧️ she/her
 
 
 ## 🌐 Socials:
