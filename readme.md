@@ -1,4 +1,4 @@
-![Header](./header.png)
+
 <h2 align="center">lucy hehe</h2>
 <p align="center">in love with lilycat</p>
   <p align="center">
