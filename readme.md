@@ -1,5 +1,6 @@
 ![Header](./header.png)
-<h3 align="center">lucy hehe</h1>
+<h2 align="center">lucy hehe</h2>
+<h3 align="center">in love with lilycat :3</h3>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=femboykissing&color=blueviolet&&label=profile views :3" alt="Profile Views">
   </p>
